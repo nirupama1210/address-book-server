@@ -109,7 +109,7 @@ router.route('/register')
       Token: <b>${secretToken}</b>
       <br/>
       On the following page:
-      <a href="http://localhost:3000/#/verify">http://localhost:3000/#/verify</a>
+      <a href="https://address-book2022-client.herokuapp.com/#/verify">https://address-book2022-client.herokuapp.com/#/verify</a>
       <br/><br/>
       Have a pleasant day.` 
 
