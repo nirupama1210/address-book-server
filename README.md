@@ -11,7 +11,7 @@ As well as storing Birthdays, Personal Notes, Social Media profiles.
 
 
 ```https://address-book2022-server.herokuapp.com/
-Endpoints https://address-book2022-server.herokuapp.com/
+https://address-book2022-server.herokuapp.com/
 ```
 
 | Method    | URL      | Description                       |
