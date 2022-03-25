@@ -3,8 +3,8 @@
 
 1. This is the backend of an Address Book web application.
 2. Address Book can be used to store your contacts with details like
-phone number, email ids of different types like personal, work.
-As well as storing Birthdays, Personal Notes, Social Media profiles.
+   phone number, email ids of different types like personal, work. 
+   As well as storing Birthdays, Personal Notes, Social Media profiles.
 
 
 ## API Reference
